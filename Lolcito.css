@@ -1,4 +1,37 @@
-.iconos {
-    width: 100px;
-    height: 100px;
+#lolcito {
+    text-align:center;
 }
+
+#lupa {
+    width: 50px;
+    height: 50px;
+}
+
+.contenedorPadre div {
+    background-color: rgb(52, 209, 130);
+    width: 300px;
+    height: 280px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px;
+    border: 2px solid black;
+}
+
+.iconos {
+    width: 90px;
+    height: 90px;
+}
+
+.buscar {
+   position: relative;
+   left: 350px;
+   bottom: 82px;
+
+} 
+
+article{
+
+    text-align: center;
+    
+    }
+
